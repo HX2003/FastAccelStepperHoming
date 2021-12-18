@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map for FastAccelStepperHoming
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FastAccelStepperHoming KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init KEYWORD2
+setLimitPin	KEYWORD2
+setHomingSpeedInUs KEYWORD2
+setHomingPulloffSteps KEYWORD2
+setInvertLimitPin KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

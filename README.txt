@@ -1,0 +1,1 @@
+This is a companion library for homing axes with FastAccelStepper for ESP32 only.
