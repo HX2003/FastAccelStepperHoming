@@ -17,6 +17,8 @@ setLimitPin	KEYWORD2
 setHomingSpeedInUs KEYWORD2
 setHomingPulloffSteps KEYWORD2
 setInvertLimitPin KEYWORD2
+home KEYWORD2
+isHomingComplete KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
